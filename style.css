@@ -1,0 +1,79 @@
+body {color: #c5dd13;
+  font-size: 30px;
+  text-align: center;
+
+    font-family: Arial, sans-serif;
+    background:url("imagen/fondo-vector-abstracto-azul-oscuro-caracteristicas-superpuestas_49459-398.avif");
+    background-size: cover;
+   background-repeat:no-repeat;
+  }
+     
+  
+  
+  p {
+    text-align: center;
+    margin-top: 50px;
+    border: #ac2020;
+  }
+     
+  #guess-input {
+    display: block;
+    margin: 0 auto 20px;
+    padding: 10px;
+    font-size: 18px;
+    width: 250px;
+    border: 1px solid #a32a2a;
+  }
+     
+  #guess-button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 40px;
+    background-color: #0CBABA;
+    color: #000000;
+    border: none;
+    border-radius: 3px;
+  }
+     
+  button:active {
+      transform: scale(0.95);
+  }
+     
+  .letter {
+      border: 1px solid black;
+      padding: 3px;
+      margin: 3px;
+      min-width: 20px;
+      text-align: center;
+      display: inline-block
+  }
+     
+  .row{
+      margin-bottom: 10px;
+  }
+     
+  .input-area{
+      margin: 30px;
+  }
+ 
+  section{color :red}
+ div {
+  text-align: center;
+margin-top: 20px;
+  }
+  h1{
+    background-color: aliceblue;
+  }
+  #recargar 
+  { 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    background-color: rgb(39, 182, 238);
+    border: 2px solid rgb(15, 15, 15);
+  }
+  h2{color: #fbff16;
+    font-size: 20px;
+  }
